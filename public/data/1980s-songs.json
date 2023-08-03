@@ -1,0 +1,504 @@
+{
+    "songs": [
+  {
+    "song": "Billie Jean",
+    "artist": "Michael Jackson",
+    "year": "1982"
+  },
+  {
+    "song": "Every Breath You Take",
+    "artist": "The Police",
+    "year": "1983"
+  },
+  {
+    "song": "Sweet Child O’ Mine",
+    "artist": "Guns N’ Roses",
+    "year": "1987"
+  },
+  {
+    "song": "When Doves Cry",
+    "artist": "Prince",
+    "year": "1984"
+  },
+  {
+    "song": "I Love Rock and Roll",
+    "artist": "Joan Jett & the Blackhearts",
+    "year": "1981"
+  },
+  {
+    "song": "With or Without You",
+    "artist": "U2",
+    "year": "1987"
+  },
+  {
+    "song": "Livin’ on a Prayer",
+    "artist": "Bon Jovi",
+    "year": "1986"
+  },
+  {
+    "song": "Endless Love",
+    "artist": "Lionel Richie & Diana Ross",
+    "year": "1981"
+  },
+  {
+    "song": "Jump",
+    "artist": "Van Halen",
+    "year": "1984"
+  },
+  {
+    "song": "Beat It",
+    "artist": "Michael Jackson",
+    "year": "1983"
+  },
+  {
+    "song": "You Shook Me All Night Long",
+    "artist": "AC/DC",
+    "year": "1980"
+  },
+  {
+    "song": "Love Will Tear Us Apart",
+    "artist": "Joy Division",
+    "year": "1980"
+  },
+  {
+    "song": "Don’t Stop Believin’",
+    "artist": "Journey",
+    "year": "1981"
+  },
+  {
+    "song": "Eye of the Tiger",
+    "artist": "Survivor",
+    "year": "1982"
+  },
+  {
+    "song": "We Are the World",
+    "artist": "U.S.A. for Africa",
+    "year": "1985"
+  },
+  {
+    "song": "Don’t You Want Me?",
+    "artist": "The Human League",
+    "year": "1981"
+  },
+  {
+    "song": "Like a Prayer",
+    "artist": "Madonna",
+    "year": "1989"
+  },
+  {
+    "song": "Tainted Love",
+    "artist": "Soft Cell",
+    "year": "1981"
+  },
+  {
+    "song": "I Wanna Dance with Somebody Who Loves Me",
+    "artist": "Whitney Houston",
+    "year": "1987"
+  },
+  {
+    "song": "Bette Davis Eyes",
+    "artist": "Kim Carnes",
+    "year": "1981"
+  },
+  {
+    "song": "Another One Bites the Dust",
+    "artist": "Queen",
+    "year": "1980"
+  },
+  {
+    "song": "Celebration",
+    "artist": "Kool & the Gang",
+    "year": "1980"
+  },
+  {
+    "song": "Take on Me",
+    "artist": "Aha",
+    "year": "1984"
+  },
+  {
+    "song": "Call Me",
+    "artist": "Blondie",
+    "year": "1980"
+  },
+  {
+    "song": "Blue Monday",
+    "artist": "New Order",
+    "year": "1983"
+  },
+  {
+    "song": "I Still Haven’t Found What I’m Looking For",
+    "artist": "U2",
+    "year": "1987"
+  },
+  {
+    "song": "I Want to Know What Love Is",
+    "artist": "Foreigner",
+    "year": "1984"
+  },
+  {
+    "song": "Come on Eileen",
+    "artist": "Dexy’s Midnight Runner",
+    "year": "1982"
+  },
+  {
+    "song": "Physical",
+    "artist": "Olivia Newton-John",
+    "year": "1981"
+  },
+  {
+    "song": "Girls Just Want to Have Fun",
+    "artist": "Cyndi Lauper",
+    "year": "1983"
+  },
+  {
+    "song": "Sweet Dreams Are Made of This",
+    "artist": "Eurythmics",
+    "year": "1983"
+  },
+  {
+    "song": "The Message",
+    "artist": "Grandmaster Flash & the Furious Five",
+    "year": "1982"
+  },
+  {
+    "song": "Walk This Way",
+    "artist": "Run-D.M.C. with Steven Tyler & Joe Perry",
+    "year": "1986"
+  },
+  {
+    "song": "Lady",
+    "artist": "Kenny Rogers",
+    "year": "1980"
+  },
+  {
+    "song": "Everybody Wants to Rule the World",
+    "artist": "Tears for Fears",
+    "year": "1985"
+  },
+  {
+    "song": "Always on My Mind",
+    "artist": "Willie Nelson",
+    "year": "1982"
+  },
+  {
+    "song": "All Night Long (All Night)",
+    "artist": "Lionel Richie",
+    "year": "1983"
+  },
+  {
+    "song": "Careless Whisper",
+    "artist": "George Michael",
+    "year": "1984"
+  },
+  {
+    "song": "Relax",
+    "artist": "Frankie Goes to Hollywood",
+    "year": "1983"
+  },
+  {
+    "song": "Kiss",
+    "artist": "Prince & the Revolution",
+    "year": "1986"
+  },
+  {
+    "song": "Down Under",
+    "artist": "Men at Work",
+    "year": "1981"
+  },
+  {
+    "song": "Funkytown",
+    "artist": "Lipps Inc.",
+    "year": "1980"
+  },
+  {
+    "song": "What’s Love Got to Do with It?",
+    "artist": "Tina Turner",
+    "year": "1984"
+  },
+  {
+    "song": "Flashdance...What a Feelin’",
+    "artist": "Irene Cara",
+    "year": "1983"
+  },
+  {
+    "song": "Purple Rain",
+    "artist": "Prince & the Revolution",
+    "year": "1984"
+  },
+  {
+    "song": "I Just Called to Say I Love You",
+    "artist": "Stevie Wonder",
+    "year": "1984"
+  },
+  {
+    "song": "Pour Some Sugar on Me",
+    "artist": "Def Leppard",
+    "year": "1987"
+  },
+  {
+    "song": "Like a Virgin",
+    "artist": "Madonna",
+    "year": "1984"
+  },
+  {
+    "song": "Love Shack",
+    "artist": "The B-52’s",
+    "year": "1989"
+  },
+  {
+    "song": "Back in Black",
+    "artist": "AC/DC",
+    "year": "1980"
+  },
+  {
+    "song": "Upside Down",
+    "artist": "Diana Ross",
+    "year": "1980"
+  },
+  {
+    "song": "Money for Nothing",
+    "artist": "Dire Straits",
+    "year": "1985"
+  },
+  {
+    "song": "Total Eclipse of the Heart",
+    "artist": "Bonnie Tyler",
+    "year": "1983"
+  },
+  {
+    "song": "Welcome to the Jungle",
+    "artist": "Guns N’ Roses",
+    "year": "1987"
+  },
+  {
+    "song": "Do They Know It’s Christmas? ",
+    "artist": "Band Aid",
+    "year": "1984"
+  },
+  {
+    "song": "Born in the U.S.A.",
+    "artist": "Bruce Springsteen",
+    "year": "1984"
+  },
+  {
+    "song": "Footloose",
+    "artist": "Kenny Loggins",
+    "year": "1984"
+  },
+  {
+    "song": "Time After Time",
+    "artist": "Cyndi Lauper",
+    "year": "1983"
+  },
+  {
+    "song": "Sledgehammer",
+    "artist": "Peter Gabriel",
+    "year": "1986"
+  },
+  {
+    "song": "I’ve Had the Time of My Life",
+    "artist": "Bill Medley & Jennifer Warnes",
+    "year": "1987"
+  },
+  {
+    "song": "Don’t You Forget about Me",
+    "artist": "Simple Minds",
+    "year": "1985"
+  },
+  {
+    "song": "Pride (In the Name of Love)",
+    "artist": "U2",
+    "year": "1984"
+  },
+  {
+    "song": "Jessie’s Girl",
+    "artist": "Rick Springfield",
+    "year": "1981"
+  },
+  {
+    "song": "Let’s Dance",
+    "artist": "David Bowie",
+    "year": "1983"
+  },
+  {
+    "song": "In the Air Tonight",
+    "artist": "Phil Collins",
+    "year": "1981"
+  },
+  {
+    "song": "Another Day in Paradise",
+    "artist": "Phil Collins",
+    "year": "1989"
+  },
+  {
+    "song": "Fast Car",
+    "artist": "Tracy Chapman",
+    "year": "1988"
+  },
+  {
+    "song": "Thriller",
+    "artist": "Michael Jackson",
+    "year": "1982"
+  },
+  {
+    "song": "How Soon Is Now?",
+    "artist": "The Smiths",
+    "year": "1984"
+  },
+  {
+    "song": "Dancing in the Dark",
+    "artist": "Bruce Springsteen",
+    "year": "1984"
+  },
+  {
+    "song": "Fight the Power",
+    "artist": "Public Enemy",
+    "year": "1989"
+  },
+  {
+    "song": "Super Freak",
+    "artist": "Rick James",
+    "year": "1981"
+  },
+  {
+    "song": "Start Me Up",
+    "artist": "The Rolling Stones",
+    "year": "1981"
+  },
+  {
+    "song": "Free Fallin’",
+    "artist": "Tom Petty",
+    "year": "1989"
+  },
+  {
+    "song": "Sexual Healing",
+    "artist": "Marvin Gaye",
+    "year": "1982"
+  },
+  {
+    "song": "Here I Go Again",
+    "artist": "Whitesnake",
+    "year": "1987"
+  },
+  {
+    "song": "9 to 5",
+    "artist": "Dolly Parton",
+    "year": "1980"
+  },
+  {
+    "song": "Islands in the Stream",
+    "artist": "Kenny Rogers & Dolly Parton",
+    "year": "1983"
+  },
+  {
+    "song": "Summer of ‘69",
+    "artist": "Bryan Adams",
+    "year": "1984"
+  },
+  {
+    "song": "Take My Breath Away",
+    "artist": "Berlin",
+    "year": "1985"
+  },
+  {
+    "song": "Jack and Diane",
+    "artist": "John Cougar Mellencamp",
+    "year": "1982"
+  },
+  {
+    "song": "That's What Friends Are For",
+    "artist": "Dionne & Friends (Dionne Warwick with Elton John, Gladys Knight, & Stevie Wonder)",
+    "year": "1985"
+  },
+  {
+    "song": "Centerfold",
+    "artist": "J. Geils Band",
+    "year": "1981"
+  },
+  {
+    "song": "Faith",
+    "artist": "George Michael",
+    "year": "1987"
+  },
+  {
+    "song": "You Gotta Fight for Your Right to Party",
+    "artist": "Beastie Boys",
+    "year": "1986"
+  },
+  {
+    "song": "Once in a Lifetime",
+    "artist": "Talking Heads",
+    "year": "1980"
+  },
+  {
+    "song": "Shout",
+    "artist": "Tears for Fears",
+    "year": "1984"
+  },
+  {
+    "song": "Africa",
+    "artist": "Toto",
+    "year": "1982"
+  },
+  {
+    "song": "Against All Odds (Take a Look at Me Now) ",
+    "artist": "Phil Collins",
+    "year": "1984"
+  },
+  {
+    "song": "West End Girls",
+    "artist": "Pet Shop Boys",
+    "year": "1985"
+  },
+  {
+    "song": "Under Pressure",
+    "artist": "Queen with David Bowie",
+    "year": "1981"
+  },
+  {
+    "song": "Need You Tonight",
+    "artist": "INXS",
+    "year": "1987"
+  },
+  {
+    "song": "Hungry Like the Wolf",
+    "artist": "Duran Duran",
+    "year": "1982"
+  },
+  {
+    "song": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "year": "1987"
+  },
+  {
+    "song": "Do You Really Want to Hurt Me?",
+    "artist": "Culture Club",
+    "year": "1982"
+  },
+  {
+    "song": "Walk Like an Egyptian",
+    "artist": "Bangles",
+    "year": "1986"
+  },
+  {
+    "song": "Sunday Bloody Sunday",
+    "artist": "U2",
+    "year": "1983"
+  },
+  {
+    "song": "Every Rose Has Its Thorn",
+    "artist": "Poison",
+    "year": "1988"
+  },
+  {
+    "song": "Say You, Say Me",
+    "artist": "Lionel Richie",
+    "year": "1985"
+  },
+  {
+    "song": "Keep on Loving You",
+    "artist": "REO Speedwagon",
+    "year": "1980"
+  }
+]
+}

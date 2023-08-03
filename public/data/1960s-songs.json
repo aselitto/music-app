@@ -1,0 +1,504 @@
+{
+  "songs": [
+    {
+      "song": "Hey Jude",
+      "artist": "The Beatles",
+      "year": "1968"
+    },
+    {
+      "song": "(I Can't Get No) Satisfaction",
+      "artist": "The Rolling Stones",
+      "year": "1965"
+    },
+    {
+      "song": "I Want to Hold Your Hand",
+      "artist": "The Beatles",
+      "year": "1963"
+    },
+    {
+      "song": "Respect",
+      "artist": "Aretha Franklin",
+      "year": "1967"
+    },
+    {
+      "song": "I Heard It Through the Grapevine",
+      "artist": "Marvin Gaye",
+      "year": "1968"
+    },
+    {
+      "song": "Good Vibrations",
+      "artist": "The Beach Boys",
+      "year": "1966"
+    },
+    {
+      "song": "Like a Rolling Stone",
+      "artist": "Bob Dylan",
+      "year": "1965"
+    },
+    {
+      "song": "(Sittin' on) The Dock of the Bay",
+      "artist": "Otis Redding",
+      "year": "1968"
+    },
+    {
+      "song": "Yesterday",
+      "artist": "The Beatles",
+      "year": "1965"
+    },
+    {
+      "song": "The House of the Rising Sun",
+      "artist": "The Animals",
+      "year": "1964"
+    },
+    {
+      "song": "Stand by Me",
+      "artist": "Ben E. King",
+      "year": "1961"
+    },
+    {
+      "song": "(Oh) Pretty Woman",
+      "artist": "Roy Orbison",
+      "year": "1964"
+    },
+    {
+      "song": "You've Lost That Lovin' Feelin'",
+      "artist": "The Righteous Brothers",
+      "year": "1964"
+    },
+    {
+      "song": "Unchained Melody",
+      "artist": "The Righteous Brothers",
+      "year": "1965"
+    },
+    {
+      "song": "The Twist",
+      "artist": "Chubby Checker",
+      "year": "1960"
+    },
+    {
+      "song": "A Whiter Shade of Pale",
+      "artist": "Procol Harum",
+      "year": "1967"
+    },
+    {
+      "song": "Louie Louie",
+      "artist": "The Kingsmen",
+      "year": "1963"
+    },
+    {
+      "song": "Light My Fire",
+      "artist": "The Doors",
+      "year": "1967"
+    },
+    {
+      "song": "My Girl",
+      "artist": "The Temptations",
+      "year": "1964"
+    },
+    {
+      "song": "Brown-Eyed Girl",
+      "artist": "Van Morrison",
+      "year": "1967"
+    },
+    {
+      "song": "My Generation",
+      "artist": "The Who",
+      "year": "1965"
+    },
+    {
+      "song": "You Really Got Me",
+      "artist": "The Kinks",
+      "year": "1964"
+    },
+    {
+      "song": "Be My Baby",
+      "artist": "The Ronettes",
+      "year": "1963"
+    },
+    {
+      "song": "Suspicious Minds",
+      "artist": "Elvis Presley",
+      "year": "1969"
+    },
+    {
+      "song": "All Along the Watchtower",
+      "artist": "The Jimi Hendrix Experience",
+      "year": "1968"
+    },
+    {
+      "song": "She Loves You",
+      "artist": "The Beatles",
+      "year": "1963"
+    },
+    {
+      "song": "I Can't Stop Loving You",
+      "artist": "Ray Charles",
+      "year": "1962"
+    },
+    {
+      "song": "When a Man Loves a Woman",
+      "artist": "Percy Sledge",
+      "year": "1966"
+    },
+    {
+      "song": "I'm a Believer",
+      "artist": "The Monkees",
+      "year": "1966"
+    },
+    {
+      "song": "What a Wonderful World",
+      "artist": "Louis Armstrong",
+      "year": "1967"
+    },
+    {
+      "song": "Georgia on My Mind",
+      "artist": "Ray Charles",
+      "year": "1960"
+    },
+    {
+      "song": "It's Now or Never",
+      "artist": "Elvis Presley",
+      "year": "1960"
+    },
+    {
+      "song": "The Sounds of Silence",
+      "artist": "Simon & Garfunkel",
+      "year": "1965"
+    },
+    {
+      "song": "God Only Knows",
+      "artist": "The Beach Boys",
+      "year": "1966"
+    },
+    {
+      "song": "Proud Mary",
+      "artist": "Creedence Clearwater Revival",
+      "year": "1969"
+    },
+    {
+      "song": "Honky Tonk Women",
+      "artist": "The Rolling Stones",
+      "year": "1969"
+    },
+    {
+      "song": "Dancing in the Street",
+      "artist": "Martha & the Vandellas",
+      "year": "1964"
+    },
+    {
+      "song": "A Day in the Life",
+      "artist": "The Beatles",
+      "year": "1967"
+    },
+    {
+      "song": "Reach Out (I'll Be There)",
+      "artist": "Four Tops",
+      "year": "1966"
+    },
+    {
+      "song": "Strawberry Fields Forever",
+      "artist": "The Beatles",
+      "year": "1967"
+    },
+    {
+      "song": "Runaway",
+      "artist": "Del Shannon",
+      "year": "1961"
+    },
+    {
+      "song": "I Want You Back",
+      "artist": "The Jackson 5",
+      "year": "1969"
+    },
+    {
+      "song": "Are You Lonesome Tonight?",
+      "artist": "Elvis Presley",
+      "year": "1960"
+    },
+    {
+      "song": "Crazy",
+      "artist": "Patsy Cline",
+      "year": "1961"
+    },
+    {
+      "song": "Nights in White Satin",
+      "artist": "The Moody Blues",
+      "year": "1967"
+    },
+    {
+      "song": "Mrs. Robinson",
+      "artist": "Simon & Garfunkel",
+      "year": "1968"
+    },
+    {
+      "song": "Mr. Tambourine Man",
+      "artist": "The Byrds",
+      "year": "1965"
+    },
+    {
+      "song": "Paint It Black",
+      "artist": "The Rolling Stones",
+      "year": "1966"
+    },
+    {
+      "song": "California Dreamin'",
+      "artist": "The Mamas & the Papas",
+      "year": "1966"
+    },
+    {
+      "song": "Sugar, Sugar",
+      "artist": "The Archies",
+      "year": "1969"
+    },
+    {
+      "song": "Born to Be Wild",
+      "artist": "Steppenwolf",
+      "year": "1968"
+    },
+    {
+      "song": "Purple Haze",
+      "artist": "The Jimi Hendrix Experience",
+      "year": "1967"
+    },
+    {
+      "song": "Help!",
+      "artist": "The Beatles",
+      "year": "1965"
+    },
+    {
+      "song": "For What It's Worth",
+      "artist": "Buffalo Springfield",
+      "year": "1967"
+    },
+    {
+      "song": "Aquarius/Let the Sunshine In",
+      "artist": "The 5th Dimension",
+      "year": "1969"
+    },
+    {
+      "song": "Space Oddity",
+      "artist": "David Bowie",
+      "year": "1969"
+    },
+    {
+      "song": "The Tracks of My Tears",
+      "artist": "The Miracles",
+      "year": "1965"
+    },
+    {
+      "song": "Whole Lotta Love",
+      "artist": "Led Zeppelin",
+      "year": "1969"
+    },
+    {
+      "song": "Get Back",
+      "artist": "The Beatles with Billy Preston",
+      "year": "1969"
+    },
+    {
+      "song": "Jumpin' Jack Flash",
+      "artist": "The Rolling Stones",
+      "year": "1968"
+    },
+    {
+      "song": "Something",
+      "artist": "The Beatles",
+      "year": "1969"
+    },
+    {
+      "song": "Sympathy for the Devil",
+      "artist": "The Rolling Stones",
+      "year": "1968"
+    },
+    {
+      "song": "Will You Love Me Tomorrow",
+      "artist": "The Shirelles",
+      "year": "1960"
+    },
+    {
+      "song": "Penny Lane",
+      "artist": "The Beatles",
+      "year": "1967"
+    },
+    {
+      "song": "It's a Small World After All",
+      "artist": "The Disneyland Chorus",
+      "year": "1964"
+    },
+    {
+      "song": "Stop! In the Name of Love",
+      "artist": "The Supremes",
+      "year": "1965"
+    },
+    {
+      "song": "Can't Buy Me Love",
+      "artist": "The Beatles",
+      "year": "1964"
+    },
+    {
+      "song": "Baby Love",
+      "artist": "The Supremes",
+      "year": "1964"
+    },
+    {
+      "song": "Moon River",
+      "artist": "Henry Mancini with Audrey Hepburn",
+      "year": "1961"
+    },
+    {
+      "song": "Can't Help Falling in Love",
+      "artist": "Elvis Presley",
+      "year": "1961"
+    },
+    {
+      "song": "Where Did Our Love Go",
+      "artist": "The Supremes",
+      "year": "1964"
+    },
+    {
+      "song": "A Change Is Gonna Come",
+      "artist": "Sam Cooke",
+      "year": "1965"
+    },
+    {
+      "song": "I Left My Heart in San Francisco",
+      "artist": "Tony Bennett",
+      "year": "1962"
+    },
+    {
+      "song": "Blowin' in the Wind",
+      "artist": "Bob Dylan",
+      "year": "1963"
+    },
+    {
+      "song": "The Loco-Motion",
+      "artist": "Little Eva",
+      "year": "1962"
+    },
+    {
+      "song": "Cathy's Clown",
+      "artist": "The Everly Brothers",
+      "year": "1960"
+    },
+    {
+      "song": "I Got You (I Feel Good)",
+      "artist": "James Brown",
+      "year": "1965"
+    },
+    {
+      "song": "Raindrops Keep Fallin' on My Head",
+      "artist": "B.J. Thomas",
+      "year": "1969"
+    },
+    {
+      "song": "At Last",
+      "artist": "Etta James",
+      "year": "1961"
+    },
+    {
+      "song": "The Letter",
+      "artist": "The Box Tops",
+      "year": "1967"
+    },
+    {
+      "song": "In My Life",
+      "artist": "The Beatles",
+      "year": "1965"
+    },
+    {
+      "song": "A Hard Day's Night",
+      "artist": "The Beatles",
+      "year": "1964"
+    },
+    {
+      "song": "Papa's Got a Brand New Bag",
+      "artist": "James Brown",
+      "year": "1965"
+    },
+    {
+      "song": "Save the Last Dance for Me",
+      "artist": "The Drifters",
+      "year": "1960"
+    },
+    {
+      "song": "Strangers in the Night",
+      "artist": "Frank Sinatra",
+      "year": "1966"
+    },
+    {
+      "song": "White Rabbit",
+      "artist": "Jefferson Airplane",
+      "year": "1967"
+    },
+    {
+      "song": "Twist and Shout",
+      "artist": "The Beatles",
+      "year": "1963"
+    },
+    {
+      "song": "River Deep, Mountain High",
+      "artist": "Ike & Tina Turner",
+      "year": "1966"
+    },
+    {
+      "song": "Green Onions",
+      "artist": "Booker T. & the MG's",
+      "year": "1962"
+    },
+    {
+      "song": "My Way",
+      "artist": "Frank Sinatra",
+      "year": "1969"
+    },
+    {
+      "song": "All You Need Is Love",
+      "artist": "The Beatles",
+      "year": "1967"
+    },
+    {
+      "song": "You Can't Hurry Love",
+      "artist": "The Supremes",
+      "year": "1966"
+    },
+    {
+      "song": "Waterloo Sunset",
+      "artist": "The Kinks",
+      "year": "1967"
+    },
+    {
+      "song": "Eleanor Rigby",
+      "artist": "The Beatles",
+      "year": "1966"
+    },
+    {
+      "song": "The Lion Sleeps Tonight",
+      "artist": "The Tokens",
+      "year": "1961"
+    },
+    {
+      "song": "Theme from 'A Summer Place'",
+      "artist": "Percy Faith",
+      "year": "1960"
+    },
+    {
+      "song": "In the Midnight Hour",
+      "artist": "Wilson Pickett",
+      "year": "1965"
+    },
+    {
+      "song": "Everyday People",
+      "artist": "Sly & the Family Stone",
+      "year": "1968"
+    },
+    {
+      "song": "Happy Together",
+      "artist": "The Turtles",
+      "year": "1967"
+    },
+    {
+      "song": "Daydream Believer",
+      "artist": "The Monkees",
+      "year": "1967"
+    }
+  ]
+}
